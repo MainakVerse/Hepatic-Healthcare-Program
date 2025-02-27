@@ -1,9 +1,13 @@
-# DHCP - Diabetes Health Care Programme
+# HHCP - Hepatic Health Care Programme
 
 
-https://github.com/user-attachments/assets/bbc1fe6c-6ac4-480c-a332-9d2aefdf23d3
+**Hepatic Disease (Liver Disease)** is a broad term that encompasses various conditions affecting liver function, including cirrhosis, fatty liver disease, hepatitis, and liver cancer.  
+The liver plays a crucial role in detoxification, metabolism, digestion, and nutrient storage. Liver diseases can result from viral infections, excessive alcohol consumption, obesity, autoimmune disorders, or genetic factors.  
 
-DHCP or Diabetes Health Care Programme is an integrated healthcare application focused on Diabetes and its health implications. Unlike normal detection or prediction software, DHCP uses Generative AI (Gemini) which produces responses and data in real time. What more? You get a completely interactive and real-time chatbot named Capsule. You have any doubts regarding symptoms, medical dosage, health implications, side effects or anything that comes to your mind, Capsule will answer you tirelessly.
+There is no absolute cure for advanced liver diseases, but early detection, lifestyle modifications, proper medication, and managing underlying conditions such as diabetes and high cholesterol can slow disease progression and improve liver health.  
+
+This **Web App** utilizes the **Random Forest Classifier** to analyze key health parameters and predict whether a person has liver disease or is at risk of developing it in the future.  
+        
 
 ## Tech Used:
 - Python (3.12 or higher)
